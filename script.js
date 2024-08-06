@@ -7,4 +7,6 @@ function printTable(num) {
 }
 console.log(num);
 
+
 //Add new feature - button.
+//Adding new feature - form.
