@@ -6,3 +6,4 @@ function printTable(num) {
     return num*num;
 }
 console.log(num);
+//Adding new feature - form.
