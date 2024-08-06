@@ -6,3 +6,5 @@ function printTable(num) {
     return num*num;
 }
 console.log(num);
+
+//Add new feature - button.
